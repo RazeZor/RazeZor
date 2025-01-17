@@ -69,7 +69,7 @@
 <!-- iconos de tecnologías -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,firebase,github,html,java,js,redhat,mysql,nodejs,py,angular,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,ts,git,github,mysql,firebase,sqlserver,exel,redhat,django,angular,vscode&perline=14" />
   </a>
 </p>
 
