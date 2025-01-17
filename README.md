@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola 👋, Soy [Tu Nombre]</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola 👋, Soy Ignacio </h1></summary>
   </ul>
 </div>
 
@@ -21,23 +21,28 @@
 </div>
 
 <!--Introducción-->
-- 🔭 Actualmente estoy trabajando con **Django, Python, Java, HTML, CSS y JS**.
+- 🔭 Actualmente estoy trabajando con **Django,  Python, Java, HTML, CSS y JS**.
 
-- 🌱 Actualmente estoy aprendiendo a **integrar aplicaciones con Django**.
+- 🌱 Actualmente estoy aprendiendo a **integrar aplicaciones con Django FULLSTACK**.
 
-- ☁️ Tengo un gran interés en **En aprender contenedores**. Estoy aprendiendo Docker****.
-
-- 💬 Pregúntame sobre **Django, Python, Java, HTML, CSS y JS**.
+- ☁️ Tengo un gran interés en **Contenedor**. Estoy aprendiendo **DOCKER**.
+- 
+- 💬 Pregúntame sobre **Django,Python, Java, HTML, CSS y JS**.
 
 - 📫 No dudes en contactarme a **nachojaviert@gmail.com**.
 
 - 🏠 También puedes enviarme un **👋** en Discord – [TuUsuarioDiscord](https://discordapp.com/users/957722095381540874).
 <!--Fin Introducción-->
+
+<!--- estadísticas y trofeos (inicio) -->
 <p align="center">
   <!--- estadísticas (inicio) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
   <img title="🔥 Ver estadísticas de tu racha en git.io/streak-stats" alt="Marca racha" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
 
@@ -50,7 +55,7 @@
 </table>
 <!--- estadísticas (fin) -->
 
-</p>        
+      
 <!--- estadísticas (fin) -->
 
 
@@ -64,7 +69,7 @@
 <!-- iconos de tecnologías -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,firebase,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nodejs,py,react,redux,tailwind,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,firebase,github,html,java,js,redhat,mysql,nodejs,py,angular,vscode&perline=14" />
   </a>
 </p>
 
@@ -86,6 +91,10 @@
   
 </p>
 
+<!-- contador de visitas de perfil -->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=tu-nombre-de-usuario&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -95,4 +104,3 @@
 ----------------------------------------------------------------------
 Créditos: [Tu Nombre](https://github.com/TuUsuario)
 
-Última edición: 29/4/2023
