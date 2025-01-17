@@ -31,8 +31,6 @@
 
 - 📫 No dudes en contactarme a **nachojaviert@gmail.com**.
 
-- 🏠 También puedes enviarme un **👋** en Discord – [TuUsuarioDiscord](https://discordapp.com/users/957722095381540874).
-<!--Fin Introducción-->
 
 <!--- estadísticas y trofeos (inicio) -->
 <p align="center">
@@ -70,7 +68,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,ts,git,github,mysql,firebase,sqlserver,exel,redhat,django,angular,vscode&perline=14" />
-  </a>
+</a>
 </p>
 
 <!-- Conectarme -->
