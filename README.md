@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RazeZor&theme=highcontrast&hide_border=true" alt="Calendario de contribuciones" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programación" />
 </div>
 
 <!--h2 sin borde inferior-->
