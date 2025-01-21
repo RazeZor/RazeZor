@@ -44,7 +44,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazeZor&theme=radical&show_icons=true&count_private=true" />
 
   <br></br>
-  <img title="🔥 Ver estadísticas de tu racha en git.io/streak-stats" alt="Marca racha" src="https://github-readme-streak-stats.herokuapp.com/?user=RazeZor&theme=dark&hide_border=false" /> 
+  <img title="🔥 Ver estadísticas de tu racha en git.io/streak-stats" alt="Marca racha" src="https://github-readme-streak-stats.herokuapp.com/?        user=RazeZor&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
