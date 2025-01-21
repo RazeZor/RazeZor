@@ -18,7 +18,7 @@
 <!--h2 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
+    <summary><h2 style="display: inline-block">Si Puedes Imaginarlo Puedes Programarlo</h2></summary>
   </ul>
 </div>
 
@@ -103,5 +103,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Créditos: [Tu Nombre](https://github.com/TuUsuario)
+
 
