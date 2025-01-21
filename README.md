@@ -10,7 +10,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programación" />
+  <img src=" https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFyZGt3M3k5eGQ3dW5tZ3JuY2dhZXFqdnJ1NDNmM3gwNnN3bGZ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="GIF de programación" />
+ 
 </div>
 
 <!--h2 sin borde inferior-->
