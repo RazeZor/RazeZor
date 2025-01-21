@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/RazeZor/RazeZor/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://streak-stats.demolab.com?user=RazeZor&theme=highcontrast&hide_border=true" alt="Calendario de contribuciones" />
 </div>
 
 <!--h2 sin borde inferior-->
