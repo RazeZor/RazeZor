@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFyZGt3M3k5eGQ3dW5tZ3JuY2dhZXFqdnJ1NDNmM3gwNnN3bGZ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="GIF divertido" width="500" height="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBpZWhpdGFjZnlibm9uaTZzazNjZ2picnVsYm9pcnpta3d5dDZ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="GIF divertido" width="500" height="300">
 
  
 </div>
