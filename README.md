@@ -70,7 +70,7 @@
 <!-- iconos de tecnologías -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,php,ts,git,github,mysql,firebase,redhat,django,angular,astro,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,php,vb,ts,git,github,mysql,slq3,sqlite3,firebase,redhat,django,angular,astro,vscode&perline=14" />
 </a>
 </p>
 
