@@ -44,12 +44,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazeZor&theme=radical&show_icons=true&count_private=true" />
 
   <br></br>
-  <img title="🔥 Ver estadísticas de tu racha en git.io/streak-stats" alt="Marca racha" src="https://github-readme-streak-stats.herokuapp.com/?        username=RazeZor&theme=dark&hide_border=false" /> 
+  <img title="🔥 Ver estadísticas de tu racha en git.io/streak-stats" alt="Marca racha" src="https://github-readme-streak-stats.herokuapp.com/?user=RazeZor&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
   
-  
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RazeZor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
   
   </td>
 </tr>
