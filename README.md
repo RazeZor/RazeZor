@@ -44,7 +44,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazeZor&theme=radical&show_icons=true&count_private=true" />
   
   <br></br>
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RazeZor&theme=react-dark)
+  ![Wakatime](https://wakatime.com/badge/user/RazeZor.svg)
+
+
+
 
 
 </td>
