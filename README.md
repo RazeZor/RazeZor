@@ -42,9 +42,11 @@
 <td width="50%" align="center">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazeZor&theme=radical&show_icons=true&count_private=true" />
-
+  
   <br></br>
-  <img title="🔥 Ver estadísticas de tu racha en git.io/streak-stats" alt="Marca racha" src="https://github-readme-streak-stats.herokuapp.com/?user=RazeZor&theme=dark&hide_border=false" /> 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RazeZor&theme=react-dark)
+
+
 </td>
 
 <td width="50%" align="center">
