@@ -44,7 +44,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazeZor&theme=radical&show_icons=true&count_private=true" />
   
   <br></br>
-  ![Wakatime](https://wakatime.com/badge/user/RazeZor.svg)
+  <div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl3c2czZGR5end4aDh1ZzBmZ2t6cWpraDhxNm1lNmVsM2ZnbmJ4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF divertido" width="500" height="300">
+
+ 
+</div>
 
 
 
