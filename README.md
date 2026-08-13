@@ -1,116 +1,121 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola 👋, Soy Ignacio </h1></summary>
-  </ul>
-</div>
-
-<!--- snake -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl3c2czZGR5end4aDh1ZzBmZ2t6cWpraDhxNm1lNmVsM2ZnbmJ4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF divertido" alt="GIF divertido" width="500" height="300">
 
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hola%2C+Soy+Ignacio+Castillo+%F0%9F%91%8B;Ingeniero+en+Inform%C3%A1tica+%C2%B7+USM;Founder+%40+Kenkomed;Pienso+soluciones.+Las+ejecuto." alt="Typing SVG" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
-<!--h2 sin borde inferior-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Si Puedes Imaginarlo Puedes Programarlo</h2></summary>
-  </ul>
-</div>
+<br>
 
-<!--Introducción-->
-- 🔭 Actualmente estoy trabajando con **Django,  Python, Java, HTML, CSS y JS**.
+### 👨🏻‍💻 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo a **integrar aplicaciones con Django FULLSTACK**.
+```yaml
+Nombre: Ignacio Castillo
+Alias: NachoDevsc
+Rol: Ingeniero en Informática (USM · egreso 2027)
+Ubicación: Concepción, Chile
+Founder: Kenkomed (HealthTech, en producción)
+Enfoque: Entender el problema → Diseñar la solución → Ejecutar → Producción
+Idiomas: ES, EN
+Disponibilidad: Freelance selectivo · práctica profesional
+```
 
-- ☁️ Tengo un gran interés en **Contenedor**. Estoy aprendiendo **DOCKER**.
-  
-- 💬 Pregúntame sobre **Django,Python, Java, HTML, CSS y JS**.
+- 🚀 Fundé **Kenkomed**, plataforma HealthTech para kinesiólogos: fichas clínicas digitales, admisión por QR y dashboards de seguimiento — **en uso real**.
+- 💼 **6+ proyectos** desplegados en producción para clientes reales (MoviMuebles, Pinsa, Vittoria, Tssara Abigail, Alejandro Fotografía).
+- 🎓 Ayudante docente en **Redes de Computadores** y **Taller de Sistemas de Información** en la USM.
+- 🤖 Construí **Nerdbot**, un LLM local con Ollama + Strands en menos de 6 horas (hackathon Nerdearla 2026).
+- 🌱 Aprendiendo a integrar aplicaciones con **Django FULLSTACK** y profundizando en **Docker**.
+- 📫 Contáctame en **contacto@nachodevsc.dev**
 
-- 📫 No dudes en contactarme a **nachojaviert@gmail.com**.
+<br>
 
+### 🛠️ Stack
 
-<!--- estadísticas y trofeos (inicio) -->
-<p align="center">
-  <!--- estadísticas (inicio) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazeZor&theme=radical&show_icons=true&count_private=true" />
-  
-  <br></br>
-  <div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdob3FpdTV2dHptdW1yMnhtZnI4ZDR2ZXFraHVzZzBnbGtmajNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF divertido" width="500" height="300">
-
- 
-</div>
-
-
-
-
-
-</td>
-
-<td width="50%" align="center">
-  
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RazeZor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
-  
-  </td>
-</tr>
-</table>
-<!--- estadísticas (fin) -->
-
-      
-<!--- estadísticas (fin) -->
-
-
-<!--h2 sin borde inferior-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!-- iconos de tecnologías -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,php,ts,git,github,mysql,firebase,redhat,django,angular,astro,vscode&perline=14" />
-
-</a>
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go" />
 </p>
 
-<!-- Conectarme -->
-<!--h2 sin borde inferior-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctame 🤝</h2></summary>
-  </ul>
-  
-</div>
-
-<!-- iconos y enlaces -->
-<p align="center">
-<a href="https://www.linkedin.com/in/tu-linkedin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/n4cho_j4vier/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/tu-id-de-discord" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,astro,react,tailwind,html" />
 </p>
 
-<!-- contador de visitas de perfil -->
+**Infra & Datos**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,firebase,git,linux,vercel" />
+</p>
+
+<br>
+
+### 📊 Estadísticas de GitHub
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=tu-nombre-de-usuario&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RazeZor&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazeZor&theme=radical&layout=compact&hide_border=false&langs_count=10" />
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazeZor&theme=radical&hide_border=false" />
+</div>
 
-----------------------------------------------------------------------
+<br>
 
+### 📌 Proyectos destacados
 
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🏥 **Kenkomed** | Plataforma clínica: admisión por QR, historias clínicas estructuradas, 8+ escalas clínicas integradas | `Django` `Python` `MySQL` `Astro` |
+| 🛋️ **MoviMuebles** | Catálogo e-commerce para mueblería, Lighthouse 95+, 100% mobile-first | `Astro` `TypeScript` `Firebase` |
+| 🏭 **Pinsa** | Landing B2B industrial, carga < 1s | `Astro` `TypeScript` `Tailwind` |
+| 💇 **Vittoria** | One-page de marca personal, Performance 98 | `Astro` `Tailwind` `TypeScript` |
+| 🩺 **Tssara Abigail** | Web profesional de salud con agendamiento vía WhatsApp | `Astro` `Tailwind` `TypeScript` |
+| 📸 **Alejandro Fotografía** | Portafolio fotográfico con lazy loading y UI dark minimalista | `Astro` `Tailwind` `Image Optimization` |
+| 🤖 **Nerdbot** | LLM local (Ollama + Strands) armado en <6h para hackathon Nerdearla 2026 | `Next.js` `FastAPI` `Python` |
+
+<br>
+
+### 📈 Actividad reciente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazeZor&theme=redical&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+### 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RazeZor&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+<br>
+
+### 🤝 Conéctame
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-castillo-nachodevsc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contacto@nachodevsc.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nachodevsc.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+📍 Concepción, Chile · 🎓 Ing. Informática USM (2027) · 💼 Disponible freelance selectivo
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
